@@ -78,7 +78,7 @@ function calcStrength(){
     setIndicator("#0f8");
   }
   else if((hasLower||hasUpper)&&(hasNum||hasSym)&&passwordLength>=6){
-    setIndicator("#ffff88");
+    setIndicator("#ff8");
   }
   else{
     setIndicator("#f08");

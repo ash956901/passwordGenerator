@@ -1,4 +1,4 @@
-#### Password Generator
+# Password Generator
 
 This project is a password generator built with HTML, CSS, and JavaScript. It allows users to generate customized passwords based on various parameters.
 

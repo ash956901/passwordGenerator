@@ -2,6 +2,11 @@
 
 This project is a password generator built with HTML, CSS, and JavaScript. It allows users to generate customized passwords based on various parameters.
 
+
+### Preview 
+<a href="https://ibb.co/wW7cyTL"><img src="https://i.ibb.co/VSxwVdN/password-gen.png" alt="password-gen" border="0"></a>
+
+
 ### Installation Instructions:
 
 1. **Clone the Repository:**
